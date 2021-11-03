@@ -1,5 +1,5 @@
 # ToolsByPython
-Python写的小工具
+Python写的免安装小工具
 
 1.定时锁屏黑屏
 
